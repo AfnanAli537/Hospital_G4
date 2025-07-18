@@ -41,7 +41,7 @@ This project demonstrates a wide range of Dart OOP capabilities:
 - 🐦 **Dart** – Primary programming language
 - 💡 **Object-Oriented Programming (OOP)**
 - 🧱 **Modular Project Structure** using folders and files
-- 🧪 **Command Line Execution**
+
 
 ---
 
